@@ -1,4 +1,4 @@
 # Hola-Mundo
-Repositorio de prueba
+Mi primer repositorio
 
 Autor: Ángel Fernando Castillo Lomas
